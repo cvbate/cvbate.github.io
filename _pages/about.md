@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: MSGIS, Clark University | BA Environmental Science and Policy, Smith College
+# <a href='#'>Affiliations</a>. cvalentinebate@gmail.com
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Currently job seeking!</p>
+    <p>Photo taken in Davos Clavadel, Switzerland</p>
 
 news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts
@@ -19,8 +19,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+ABOUT ME:
+Hello, thank you for visiting my portoflio website!
+This Website was created and hosted on GitHub! --credit to original template-- I've really enjoying putting this website together.  
+My name is Clio Bate, I am currently pursing my MS in GIS at Clark University in Worcester, MA and expected to graduate this coming May- 2024. I went right into my masters degree after graduating from Smith College with a bachelors in Environmental Science and Policy with a focus on the human impact of climate change. I am interesting in Remote Sensing with applications in agriculture, climate change moitoring and deforestation, which I have explored in my time at Clark.  
+My hobbies including reading— I love sci-fy and fantasy— hiking, traveling spending time with friends, and hanging out with my cat, Loon.
+Please click on the icons below to contact me via email, or to be taken to by GitHub and LinkedIn profiles.
