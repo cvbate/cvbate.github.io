@@ -3,10 +3,10 @@
   contents:
     - name: Full Name
       value: Clio Valentine Bate
-    - name: Date of Birth
-      value: 
+    - name: Address
+      value: 221 Dewey St. Worcester, MA 01610
     - name: Languages
-      value: English, Spanish
+      value: English(native speaker), Spanish(limited working proficiency)
 
 - title: Education
   type: time_table
@@ -14,25 +14,18 @@
     - title: MS Geospatial Information Science
       institution: Clark University, Worcester, MA
       year: 2024
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: BA Environmental Science & Policy
+    - title: BA Environmental Science & Policy, Spanish Minor
       institution: Smith College, Northampton, MA
       year: 2022
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Comparative Ecology and Conservation, Ecuador 
+      institution: Study Abroad, SIT Study Abroad
+      year: 2020
 
-- title: Experience
+- title: Work Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
+    - title: Urban Forestry Research Supervisor
+      institution: HERO, Clark University
       year: 1933 - 1955
       description:
         - Description 1.
@@ -61,7 +54,7 @@
       institution: University of Zurich, Zurich, Switzerland
       year: 1909 - 1911
 
-- title: Open Source Projects
+- title: Research
   type: time_table
   contents:
     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
@@ -79,7 +72,7 @@
       items:
         - Max Planck Medal
 
-- title: Academic Interests
+- title: Aditional Experience
   type: nested_list
   contents:
     - title: Topic 1.
@@ -91,7 +84,7 @@
         - Description 1.
         - Description 2.
 
-- title: Other Interests
+- title: Skills
   type: list
   contents:
     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
