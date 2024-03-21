@@ -65,18 +65,26 @@
       description: Used Google Earth Pro to identify crop type and area occupied by smallholder crop holders, calculated the amount of Rondo (Glyphosate) needed to cover Danec S.A.’s monocrop; and compared the environmental impacts, like pesticide use, of diverse smallholder agriculture to Danec S.A’s African palm oil monocrop.
 
 - title: Aditional Experience
-  type: nested_list
+  type: time_table
   contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - title: Miyawaki Forest Directed Study
+      institution: <i>Geography Dep., Clark University</i>
+      year: Spring 2024 
+      description: Worked with a professor and the city of Worcester to monitor and evaluate the impact of two newly planted Miyawaki, or “Micro Forests,” intended to reduce urban heat island effect.
+    - title: IDCE Department Social Chair
+      institution: <i>Clark University</i>
+      year: 2023-2024
+      description: Organized social events for the department’s student body to foster community growth and met regularly with student council and department heads to ensure the student council runs smoothly.
+    - title: Teaching Assistant
+      institution: <i>Geography Dep., Clark University</i>
+      year: Fall 2023
+      description: Teaching assistant for undergraduate course Getting to Zero&#58; Clean Energy. Graded student assignments, attended lectures, held office hours, and supervised weekly discussion sections.
+    - title: President of the Vibes a Cappella
+      institution: <i>Smith College</i>	
+      year: 2021-2022 
+      description: Coordinated a cappella rehearsals, lead board meetings, attended rigorous rehearsals, and soloed in group performances. Previous positions&#58; treasurer. 
 
 - title: Skills
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - ArcPro, Terrset(IDRISI/Clark Labs), GISOnline, ArcGIS Storymaps, ArcGIS Field Maps, Python, R, RStudio, GitHub, GEE, Illustrator, Mailchimp, website design. 
