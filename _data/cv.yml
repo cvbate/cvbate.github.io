@@ -5,72 +5,64 @@
       value: Clio Valentine Bate
     - name: Address
       value: 221 Dewey St. Worcester, MA 01610
+    - name: Email
+      value: cvalentinebate@gmail.com
     - name: Languages
-      value: English(native speaker), Spanish(limited working proficiency)
+      value: English(native speaker) <p>Spanish(limited working proficiency/B2)
 
 - title: Education
   type: time_table
   contents:
     - title: MS Geospatial Information Science
-      institution: Clark University, Worcester, MA
+      institution: <i>Clark University, Worcester, MA</i>
       year: 2024
     - title: BA Environmental Science & Policy, Spanish Minor
-      institution: Smith College, Northampton, MA
+      institution: <i>Smith College, Northampton, MA</i>
       year: 2022
     - title: Comparative Ecology and Conservation, Ecuador 
-      institution: Study Abroad, SIT Study Abroad
+      institution: <i>Study Abroad, SIT Study Abroad</i>
       year: 2020
 
 - title: Work Experience
   type: time_table
   contents:
     - title: Urban Forestry Research Supervisor
-      institution: HERO, Clark University
-      year: 1933 - 1955
+      institution: <i>HERO, Clark University</i>
+      year: Summer 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        Supervised undergraduate fellows for the Human-Environment Regional Observatory (HERO) in urban forestry research project. Supervised data collection, use of ArcGIS field maps, in person interviews, and analysis of qualitative and quantitative data.
+
+    - title: GIS Project Assistant
+      institution: <i>Geography Dep., Clark University</i>
+      year: Spring '23-'24 
       description:
-        - Description 1.
-        - Description 2.
+        Worked closely with a Clark professor in collaboration with the Gitga'at Nation to create maps of shipping routes, trap locations, wildlife sightings, and more. Designed, edited and organized a 60 plus page annual report for the First Nation. 
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Head Editor
+      institution: <i>NGO Sustainability</i>
+      year: Summer '20-'21
       description:
+        Head editor for the organization newsletter, "Global Warning", conducted independent research on environmental issues, worked in a team to update website, and wrote and presented reports at weekly meetings.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Piedmont Environmental Council Fellowship
+      institution: <i>Piedmont Environmental Council(PEC)</i>
+      year: Summer 2020
+      description: Learned about environmental non-profit work and presented a two-week practicum project that assessed vacant land in an adjacent town for PEC using ArcGISOnline.
+
+    - title: Sustainability Outreach Intern
+      institution: CEEDS Smith College field station
+      year: 2018-2020
+      description: Maintained field station, led tours, educated community, constructed, and maintained trails, and conducted research for sustainability.
 
 - title: Research
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+    - title: The Ecological Factor&#58; Culvert Assessment for Replacement or Removal in Northampton, MA <i>Capstone Project, Smith College</i>
+      year: 2020
+      description: Developed a Spatial Ecological Assessment using ArcPro to create a rigorous set of criteria and methodology for conducting pre- and post-assessment of culverts and identified a list of high-priority culverts for replacement or removal in Northampton MA.
+    - title: Palma Africana (Elaeis guineensis) In Shushufindi, Ecuador&#58; Comparison of Land Use in Smallholder vs DANEC S.A Monocrops Plantations <i>SIT Ecuador Comparative Ecology and Conservation</i>
+      year: 2020
+      description: Used Google Earth Pro to identify crop type and area occupied by smallholder crop holders, calculated the amount of Rondo (Glyphosate) needed to cover Danec S.A.’s monocrop; and compared the environmental impacts, like pesticide use, of diverse smallholder agriculture to Danec S.A’s African palm oil monocrop.
 
 - title: Aditional Experience
   type: nested_list
