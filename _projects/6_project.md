@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 6
+title: lab 07 ad vec or land change lab?
 description: a project with no image
 img:
 importance: 4
