@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CAFOS
+title: CAFOS in the Yucatán Peninsula (FROM X to 2019)
 description: a project with a background image and giscus comments
 img: assets/img/3.jpg
 importance: 2
@@ -8,15 +8,13 @@ category: work
 giscus_comments: true
 ---
 
+This project studied the growth of [Concentrated Animal Feeding Operations (CAFOs)](https://storymaps.arcgis.com/collections/3e7203cf44cf417c9b5fe1db7a182293?item=1) with André Luiz de Oliveira Domingues (Clark Universtiy, MSGIS) in Mexican's Yucatán peninsula. We identified CAFO's refuse lagoons from Landsat imagery by training a deep learning model to recognize CAFOs lagoons based on spectral sampling of known lagoons in 2019. We identied when the lagoons began to appear in  Sitilpech, Uayalceh, and Kinchil, and at what scale and rate they have grown since 1995. Our project was intended to add to previous research on CAFOs in Yucatán and support community claims of increasing, illegal, industrial swine operations in their territories.
 
-CAFOS PROJECT overview in vignette project overview on github
+Software/Packages used: R Studio, GitHub, Random Forest, rgee (package API for GEE)
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+
+Represent the data in R with maps and graphs that show the growth and distribution of CAFOS in the three communities. 
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

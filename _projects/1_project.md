@@ -2,22 +2,26 @@
 layout: page
 title: Biophysical Remote Sensing and Continuous Scene Models
 description: a project with a background image
-img: assets/img/12.jpg
+img: assets\img\PERCENT_COV.jpg
 importance: 1
 category: work
 related_publications: true
 ---
-Lab 02 ARS
+I explored how in-situ measurements can be used to find correlations with remotely sensed satellite data. The purpose of this is to explore whether we can measure biophysical parameters using satellite imagery. If a statistical relationship is found, biophysical parameters can be modelled and estimated based solely on satellite data, eliminating the need for constant in-situ monitoring and dramatically reducing costs associated with these types of studies.  
+
+Using remote sensing to accurately measure biophysical parameters at a fine scale is incredibly complex and difficult. Most natural processes cannot be modelled with a simple linear equation, which is further proven by the low statistical relationships and inaccuracies of these results. More robust field sampling should be done along with using imagery at finer resolutions to more accurately measure local biophysical parameters at the scale that remote sensing offers.
+
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets\img\PERCENT_COV.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets\img\PERCENT_CONIF.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets\img\PERCENT_DECID.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
