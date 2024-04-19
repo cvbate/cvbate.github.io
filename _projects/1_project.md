@@ -2,7 +2,7 @@
 layout: page
 title: Biophysical Remote Sensing and Continuous Scene Models
 description: a project with a background image
-img: assets\img\PERCENT_COV.jpg
+img: assets/img/percent_decid.jpg
 importance: 1
 category: work
 related_publications: true
@@ -12,16 +12,15 @@ I explored how in-situ measurements can be used to find correlations with remote
 Using remote sensing to accurately measure biophysical parameters at a fine scale is incredibly complex and difficult. Most natural processes cannot be modelled with a simple linear equation, which is further proven by the low statistical relationships and inaccuracies of these results. More robust field sampling should be done along with using imagery at finer resolutions to more accurately measure local biophysical parameters at the scale that remote sensing offers.
 
 
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets\img\PERCENT_COV.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/percent_cov.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets\img\PERCENT_CONIF.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/percent_conif.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets\img\PERCENT_DECID.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/percent_decid.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
