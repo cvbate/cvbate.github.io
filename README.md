@@ -1,3 +1,11 @@
+# Welcome to my resume website!
+Hello! My name is Clio Bate, welcome to the Github repo for my full stack-react website! This has been a personal development project of mine to expand and hone my skillset. In this ReadMe I will include my personal notes while building this website and any challenges I encountered along the way. <p>
+I am experienced in Python, with moderate exposure to JavaScript and web applications. I want to take the next steps in my career and this website is a cumulation of those steps. 
+
+
+
+Below is all the original ReadMe from the React Router tempalte.
+
 # Welcome to React Router!
 
 A modern, production-ready template for building full-stack React applications using React Router.
