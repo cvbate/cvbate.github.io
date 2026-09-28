@@ -26,9 +26,18 @@ export function Welcome() {
             Welcome to my interactive resume app!
           </h1>
           <p className="mt-6 max-w-2xl text-lg leading-8 text-stone-700 sm:text-xl">
-            My name is <span className="font-semibold text-stone-900">Clio Bate</span>,
-            and I am a <span className="font-semibold text-stone-900">GIS Developer </span>
-            based in <span className="font-semibold text-stone-900">Pittsburgh, PA</span>.
+            <p>My name is Clio Bate, and I am a GIS Developer with an MS in GIS from Clark University in Worcester, MA, which I earned in May 2024.
+            I went directly into my master’s degree after graduating from Smith College with a bachelor’s degree in Environmental Science and Policy,
+            where I focused on the human impacts of climate change.</p>
+            <p>In my current role as a GIS Developer, I develop Python-based geospatial tools and automate complex GIS workflows using the Esri ecosystem. 
+            My work includes developing custom geoprocessing tools, supporting enterprise GIS systems, building end-to-end data-collection and quality-assurance workflows. 
+            I enjoy working at the intersection of GIS and software development—taking complicated spatial problems and turning them into reliable, repeatable tools that
+            make GIS workflows more efficient.</p>
+            <p>I am currently expanding my skillset into web development by building this website as a personal interactive resume application. It is a full-stack application built with React Router and Node.js, using TypeScript, Vite, and Docker.</p>
+            <p>Outside of GIS and software development, I enjoy reading—my favorite authors are Robin Hobb and Isabel Allende—crocheting, sewing, traveling, spending time with friends, and hanging out with my cat, Loon.</p>
+
+            <p>Please click on the icons below to contact me via email, or to be taken to by GitHub and LinkedIn profiles.</p>
+
           </p>
         </header>
       </div>
